@@ -1,0 +1,2 @@
+# CORS
+Testing CORS
